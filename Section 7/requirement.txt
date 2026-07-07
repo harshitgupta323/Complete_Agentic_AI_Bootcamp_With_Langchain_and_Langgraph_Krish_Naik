@@ -1,3 +1,6 @@
 langchain
 langchain_groq
 langchain_core
+fastapi
+uv
+langserve
